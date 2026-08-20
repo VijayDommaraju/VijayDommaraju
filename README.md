@@ -3,8 +3,8 @@
 <img src="./assets/hero-banner.gif" alt="Vijay Dommaraju - Java Backend Engineer" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-VijayDommaraju-181717?style=for-the-badge&logo=github)](https://github.com/VijayDommaraju)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay%20Varmand-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijayvarmand/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaydommaraju111@gmail.com)
 
 </div>
 
