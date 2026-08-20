@@ -135,7 +135,11 @@ Engineering areas include inventory reservation, role-based access, scheme valid
 # 🐍 Contribution Activity
 
 <div align="center">
-**Contribution animation will appear after GitHub Actions generates it. 🐍**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VijayDommaraju/VijayDommaraju/gh-pages/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VijayDommaraju/VijayDommaraju/gh-pages/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/VijayDommaraju/VijayDommaraju/gh-pages/github-snake.svg">
+</picture>
 </div>
 
 ---
