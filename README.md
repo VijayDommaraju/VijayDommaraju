@@ -1,6 +1,9 @@
+<div align="center">
 
+## 👋 Hi, I'm Vijay Dommaraju
+A Passionate Full Stack Developer from India
 
-## 👋 Welcome Spartans
+</div>
 
 I'm **Vijay Dommaraju**, a **Java Backend Engineer** focused on building secure, scalable, maintainable and production-ready backend systems.
 
