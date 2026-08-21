@@ -4,7 +4,7 @@
 ## 👋 Hi, I'm Vijay Dommaraju
 A Passionate Full Stack Developer from India
 
-<img src="./assets/VijayDommaraju_readme_2.jpeg"
+<img src="./assets/VijayDommaraju_readme_3.jpeg"
      alt="Vijay Dommaraju"
      width="100%"/>
 
