@@ -75,56 +75,6 @@ I enjoy going beyond individual endpoints — understanding **architecture, tran
 
 </div>
 
-## 🧠 Engineering Mindset
-
-```text
-Requirement
-    ↓
-Architecture
-    ↓
-API Design
-    ↓
-Business Logic
-    ↓
-Database Design
-    ↓
-Security
-    ↓
-Caching / Messaging
-    ↓
-Testing
-    ↓
-Deployment
-    ↓
-Monitoring
-    ↓
-Optimization
-```
-
----
-
-## 🎯 What I'm Building Toward
-
-> From writing backend features → to engineering production systems.
-
-```text
-Code
-  ↓
-Design
-  ↓
-Scale
-  ↓
-Secure
-  ↓
-Observe
-  ↓
-Optimize
-  ↓
-Operate
-```
-
----
-
 <div align="center">
 
 ### ⚡ BUILD • UNDERSTAND • OPTIMIZE • SCALE
