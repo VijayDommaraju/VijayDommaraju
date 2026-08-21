@@ -1,9 +1,12 @@
+
 <div align="center">
 
 ## 👋 Hi, I'm Vijay Dommaraju
 A Passionate Full Stack Developer from India
 
-<img src="./assets/Vijay_Dommaraju_WallCard_readme.png" alt="Vijay Dommaraju" width="90%"/>
+<img src="./assets/VijayDommaraju_readme_2.jpeg"
+     alt="Vijay Dommaraju"
+     width="100%"/>
 
 </div>
 
