@@ -3,6 +3,8 @@
 ## 👋 Hi, I'm Vijay Dommaraju
 A Passionate Full Stack Developer from India
 
+<img src="./assets/Vijay_Dommaraju_WallCard_readme.png" alt="Vijay Dommaraju" width="90%"/>
+
 </div>
 
 I'm **Vijay Dommaraju**, a **Java Backend Engineer** focused on building secure, scalable, maintainable and production-ready backend systems.
